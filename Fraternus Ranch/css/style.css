@@ -1,0 +1,40 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #333; 
+  background-image: url("../images/ranch\ 2022.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 70%;
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 300px;
+}
+h1 {
+  margin: 0;
+  font-size: 40px;
+  font-weight: bold;
+}
+nav {
+  background-color: #eee;
+  padding: 10px;
+  text-align: center;
+}
+nav a {
+  color: #333;
+  text-decoration: none;
+  padding: 10px;
+}
+nav a:hover {
+  background-color: #333;
+  color: white;
+}
+section {
+  padding: 20px;
+  margin: 20px;
+  border: 1px solid #ccc;
+}
